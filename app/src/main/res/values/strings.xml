@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stock App</string>
+    <string name="top_gainers">Top Gainers</string>
+    <string name="book_mark_icon">Book Mark Icon</string>
+    <string name="watchlist">WatchList</string>
+    <string name="search_icons">Search Icons</string>
+    <string name="search_here">Search Here</string>
+</resources>
