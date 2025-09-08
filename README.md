@@ -77,9 +77,9 @@ com.rach.stockapp
 | ![DarkMode](https://github.com/user-attachments/assets/d6a17494-a257-4191-bebe-bda2b48d8512) | ![DetailsScreen 2nd Phone](https://github.com/user-attachments/assets/309daaa1-6307-4d0d-bf72-7c5a28a16e45) | ![Photo1](https://github.com/user-attachments/assets/2c2a6e71-f583-4d5d-ac2d-6e98780323e9) |
 | ![Photo2](https://github.com/user-attachments/assets/a239a73f-9625-454d-83b2-041463cd859d) | ![Photo3](https://github.com/user-attachments/assets/c40ecab9-29b4-42a6-aed9-cce35b6ffcb0) |  |
 
+## 🎥 Demo Video  
 
-
-
+[![Watch the video](https://img.youtube.com/vi/Wwlj9E07WGs/0.jpg)](https://youtu.be/Wwlj9E07WGs)
 
 ## 🔑 API Integration  
 
