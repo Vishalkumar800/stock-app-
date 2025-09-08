@@ -127,7 +127,7 @@ This app was built as per the **Android SDE Intern Assignment**:
 
 ## 📦 APK  
 
-👉 [Download APK](https://drive.google.com/) *(upload your APK here and replace link)*  
+👉 [Download APK](https://drive.google.com/file/d/13mvk5bP5l5OHiuhWcquJ0bnzv5RhGo4n/view?usp=sharing).
 
 ---
 
