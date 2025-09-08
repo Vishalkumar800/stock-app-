@@ -74,7 +74,9 @@ com.rach.stockapp
 | Explore Screen | Stock Details | Watchlist |
 |----------------|--------------|-----------|
 | ![Explore](https://github.com/user-attachments/assets/142d4acd-9cf1-4fad-aa84-5b26326ed75b) | ![Details Screen](https://github.com/user-attachments/assets/bfdbb24c-7c38-4b44-a150-a50f8508904f) | ![Watchlist](https://github.com/user-attachments/assets/b378190c-6f38-47cf-a6e3-6bb5676ef793) |
-| ![DarkMode](https://github.com/user-attachments/assets/d6a17494-a257-4191-bebe-bda2b48d8512)| ![DetailsScreen](https://github.com/user-attachments/assets/d6a17494-a257-4191-bebe-bda2b48d8512)|
+| ![DarkMode](https://github.com/user-attachments/assets/d6a17494-a257-4191-bebe-bda2b48d8512)| ![DetailsScreen 2nd Phone](https://github.com/user-attachments/assets/309daaa1-6307-4d0d-bf72-7c5a28a16e45) |
+| ![photo_2025-09-08_07-23-09](https://github.com/user-attachments/assets/2dd87e6f-9e65-408a-80cd-b8d27dd25fc8) | ![photo_2025-09-08_07-23-09 (3)](https://github.com/user-attachments/assets/a239a73f-9625-454d-83b2-041463cd859d) | ![photo_2025-09-08_07-23-09 (2)](https://github.com/user-attachments/assets/c40ecab9-29b4-42a6-aed9-cce35b6ffcb0) |
+
 
 
 
